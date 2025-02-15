@@ -21,6 +21,11 @@ h2 {
     margin-bottom: 30px;
 }
 
+h3 {
+    font-size: 0.8rem;
+    color: #dfdfdf;
+    margin-bottom: 30px;
+}
 /* Estilo del botón */
 .my-btn {
     background: #6381d3;
